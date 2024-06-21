@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "userName": "John Doe",
+    "password": "12345"
+  },
+  {
+    "id": 2,
+    "userName": "Jane Smith",
+    "password": "22345"
+  },
+  {
+    "id": 3,
+    "userName": "Bob Johnson",
+    "password": "32345"
+  },
+  {
+    "id": 4,
+    "userName": "Mirra",
+    "password": "$2b$10$afguz4LXRtlHnENS6H03S.z9V2biQLMVtX5dpS2SYN.r1R/ogLkkO"
+  }
+]
